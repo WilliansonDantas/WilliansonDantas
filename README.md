@@ -37,8 +37,8 @@
 -----
 
 <div>
-<img alt="GitHub Stats" height="200" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
-<img alt="GitHub Top Langs" height="200" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
+<img alt="GitHub Stats" height="200" width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
+<img alt="GitHub Top Langs" height="200" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
 </div>
 <div>
 <img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
