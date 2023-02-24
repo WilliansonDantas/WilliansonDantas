@@ -6,7 +6,7 @@
 
 -----
 
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Sobre mim:
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
 
 - 🔭 Atualmente estou aprendendo Desenvolvimento Web na Trybe;
 - 🌱 No momento estou aprendendo Python, Java e Spring Boot;
@@ -15,7 +15,7 @@
 
 -----
 
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Contato:
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contato:
 
 <div>
 <a href = "mailto:williansondantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -23,6 +23,17 @@
 </div>
 
 -----
+  
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
+          
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
+  </a>
+</p>
+
+-----
+
 <div>
 <img alt="GitHub Stats" height="200" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
 <img alt="GitHub Top Langs" height="200" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
