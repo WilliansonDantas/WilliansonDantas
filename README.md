@@ -1,14 +1,7 @@
-<!-- 
-GIF SECTION
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
 
-If you wanna know how i made this gif
 
-I made this with my repo: (https://github.com/WilliansonDantas/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
-<a href="https://github.com/WilliansonDantas">![Willianson Dantas Profile GIF](./assets/profile_presentation.gif)</a>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
 
 
 
