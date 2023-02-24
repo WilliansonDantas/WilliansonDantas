@@ -14,5 +14,22 @@
 - :man_health_worker: Experiências de mercado: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four.
 
 -----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/>Contato:
+
+<div>
+<a href = "mailto:williansondantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/willianson-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+-----
+<div>
+<img alt="GitHub Stats" height="200" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
+<img alt="GitHub Top Langs" height="200" width="500px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
+</div>
+<div>
+<img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
+</div>
+
 <!--
 -->
