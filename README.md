@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=500&color=9583EB&center=true&vCenter=true&multiline=true&width=435&lines=Ol%C3%A1!+;Sou+Willianson+Dantas.;Desenvolvedor+Full+Stack.;Bem+vindo+ao+meu+perfil+GitHub.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=500&color=9583EB&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+;Sou+Willianson+Dantas.;Desenvolvedor+Full+Stack.;Bem+vindo+ao+meu+perfil+GitHub.)](https://git.io/typing-svg)
 
 
 
