@@ -19,6 +19,8 @@
 
  <p align="center">
    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=bash" />
+<p> Bash </p>
      <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
    </a>
  </p>
