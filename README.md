@@ -18,8 +18,8 @@
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
  <p align="center">
-   <div display=flex justify="center" align="center"> 
-     <a href="https://skillicons.dev">
+   <a href="https://skillicons.dev">
+     <div display=flex justify="center" align="center"> 
        <img src="https://skillicons.dev/icons?i=bash" />
        <p> Bash </p>
        <img src="https://skillicons.dev/icons?i=bootstrap" />
@@ -68,8 +68,8 @@
        <p> VSCode </p>
      
 <!--      <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," /> -->
-    </a>
-   </div>
+    </div>
+   </a>
  </p>
 
 -----
