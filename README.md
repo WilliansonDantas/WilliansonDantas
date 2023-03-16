@@ -50,14 +50,6 @@
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
-<div align="justify">
-    <img src="https://skillicons.dev/icons?i=bash"
-         src="https://skillicons.dev/icons?i=bootstrap"
-         />
-    <p> Bash </p>
-    <p> Bootstrap </p>
-</div>
-
 <!--
 <div align="justify">
     <img src="https://skillicons.dev/icons?i=bash" />
