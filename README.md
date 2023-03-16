@@ -18,7 +18,7 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
-<p justify="center">
+<p align="center">
    <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
    </a>
@@ -50,6 +50,13 @@
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
+<div align="justify">
+    <img src="https://skillicons.dev/icons?i=bash"
+         src="https://skillicons.dev/icons?i=bootstrap"
+         />
+    <p> Bash </p>
+    <p> Bootstrap </p>
+</div>
 
 <!--
 <div align="justify">
