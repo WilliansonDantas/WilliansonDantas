@@ -23,6 +23,10 @@
         <img src="https://skillicons.dev/icons?i=bash" />
         <p> Bash </p>
      </div>
+     <div align="center"> 
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+        <p> Bootstrap </p>
+     </div>
      <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
    </a>
  </p>
