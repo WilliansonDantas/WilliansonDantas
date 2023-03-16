@@ -17,7 +17,7 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
-<div display="flex" justify="center">
+<div display="flex" align="center">
     <img src="https://skillicons.dev/icons?i=bash" />
     <p> Bash </p>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
