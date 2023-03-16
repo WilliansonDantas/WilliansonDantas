@@ -49,7 +49,7 @@
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
-<div align="center">
+<div align="justify">
     <img src="https://skillicons.dev/icons?i=bash" />
     <p> Bash </p>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
