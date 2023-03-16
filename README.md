@@ -8,6 +8,7 @@
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
 
+- :man_student: "Especialista em Aprender"
 - 🔭 Atualmente estou aprendendo Desenvolvimento Web na Trybe
 - 🌱 No momento estou aprendendo Python, Java e Spring Boot
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas
