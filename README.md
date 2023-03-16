@@ -17,6 +17,41 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
+<p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
+   </a>
+</p>
+
+
+-----
+
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contato:
+
+<div>
+<a href = "mailto:williansondantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/willianson-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+-----
+
+<div align="center">
+  <img alt="GitHub Stats" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
+  <img alt="GitHub Top Langs" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
+</div>
+<div align="center">
+<img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
+</div>
+
+-----
+-----
+-----
+
+⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
+
+ 
+  <!-- 
+ 
 <div display="flex" justify-content="center">
     <img src="https://skillicons.dev/icons?i=bash" />
     <p> Bash </p>
@@ -65,41 +100,5 @@
     <img src="https://skillicons.dev/icons?i=vscode" />
     <p> VSCode </p>
 </div>
-
------
-
-### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contato:
-
-<div>
-<a href = "mailto:williansondantas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/willianson-dantas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
------
-
-<div align="center">
-  <img alt="GitHub Stats" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
-  <img alt="GitHub Top Langs" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
-</div>
-<div align="center">
-<img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
-</div>
-
------
------
------
-
-⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
-
-
- <p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
-   </a>
- </p>
- 
-  <!-- 
- 
-
 
 -->
