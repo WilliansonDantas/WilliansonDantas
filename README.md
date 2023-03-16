@@ -67,15 +67,7 @@
        <p> VSCode </p>
     </div>
  </p>
- <!-- 
- 
- <p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
-   </a>
- </p>
 
--->
 -----
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contato:
@@ -101,3 +93,15 @@
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
+
+ <p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
+   </a>
+ </p>
+ 
+  <!-- 
+ 
+
+
+-->
