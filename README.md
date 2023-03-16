@@ -19,16 +19,10 @@
 
  <p align="center">
   <div display="flex" justify="center" align="center">
-    <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=bash" />
-      <p> Bash </p>
-    </a>
-    <a href="https://skillicons.dev">
+       <p> Bash </p>
        <img src="https://skillicons.dev/icons?i=bootstrap" />
        <p> Bootstrap </p>
-    </a>
-    
-     <!-- 
        <img src="https://skillicons.dev/icons?i=css" />
        <p> CSS </p>
        <img src="https://skillicons.dev/icons?i=docker" />
@@ -71,7 +65,6 @@
        <p> Typescript </p>
        <img src="https://skillicons.dev/icons?i=vscode" />
        <p> VSCode </p>
--->
     </div>
  </p>
  <!-- 
