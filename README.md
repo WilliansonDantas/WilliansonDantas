@@ -18,14 +18,14 @@
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
  <p align="center">
-   <a href="https://skillicons.dev">
-     <div display=flex justify="center" align="center"> 
+   <div display=flex justify="center" align="center"> 
+     <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=bash" />
        <p> Bash </p>
        <img src="https://skillicons.dev/icons?i=bootstrap" />
        <p> Bootstrap </p>
        <img src="https://skillicons.dev/icons?i=css" />
-       <p> Css </p>
+       <p> CSS </p>
        <img src="https://skillicons.dev/icons?i=docker" />
        <p> Docker </p>
        <img src="https://skillicons.dev/icons?i=express" />
@@ -66,9 +66,10 @@
        <p> Typescript </p>
        <img src="https://skillicons.dev/icons?i=vscode" />
        <p> VSCode </p>
-     </div>
+     
 <!--      <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," /> -->
-   </a>
+    </a>
+   </div>
  </p>
 
 -----
