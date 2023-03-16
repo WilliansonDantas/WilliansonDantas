@@ -49,10 +49,7 @@
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
- 
-  <!-- 
- 
-<div display="flex" justify-content="center">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=bash" />
     <p> Bash </p>
     <img src="https://skillicons.dev/icons?i=bootstrap" />
@@ -101,4 +98,5 @@
     <p> VSCode </p>
 </div>
 
+<!--
 -->
