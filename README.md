@@ -19,7 +19,7 @@
 
  <p align="center">
    <a href="https://skillicons.dev">
-     <div display=flex justify-content="center"> 
+     <div display=flex justify-content="center" align-items="center"> 
         <img src="https://skillicons.dev/icons?i=bash" />
         <p> Bash </p>
         <img src="https://skillicons.dev/icons?i=bootstrap" />
