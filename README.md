@@ -54,9 +54,10 @@
 
 -----
 
-⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
-
-⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)
+<div align="center">
+  <p> ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)</p>
+  <p> ⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)</p>
+</div>
 
 <!--
 
