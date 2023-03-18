@@ -43,6 +43,7 @@
 -----
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
+⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)
 
 <!--
 
