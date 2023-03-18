@@ -18,56 +18,100 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
-<div align="justify">
-    <img src="https://skillicons.dev/icons?i=bash" />
-    <p> Bash </p>
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <p> Bootstrap </p>
-    <img src="https://skillicons.dev/icons?i=css" />
-    <p> CSS </p>
-    <img src="https://skillicons.dev/icons?i=docker" />
-    <p> Docker </p>
-    <img src="https://skillicons.dev/icons?i=express" />
-    <p> Express </p>
-    <img src="https://skillicons.dev/icons?i=git" />
-    <p> Git </p>
-    <img src="https://skillicons.dev/icons?i=github" />
-    <p> Github </p>
-    <img src="https://skillicons.dev/icons?i=heroku" />
-    <p> Heroku </p>
-    <img src="https://skillicons.dev/icons?i=html" />
-    <p> Html </p>
-    <img src="https://skillicons.dev/icons?i=js" />
-    <p> Javascript </p>
-    <img src="https://skillicons.dev/icons?i=jest" />
-    <p> Jest </p>
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <p> Linux </p>
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-    <p> MongoDB </p>
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <p> MySQL </p>
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-    <p> Node.js </p>
-    <img src="https://skillicons.dev/icons?i=py" />
-    <p> Python </p>
-    <img src="https://skillicons.dev/icons?i=react" />
-    <p> React.js </p>
-    <img src="https://skillicons.dev/icons?i=redux" />
-    <p> Redux </p>
-    <img src="https://skillicons.dev/icons?i=styledcomponents" />
-    <p> Styled Components </p>
-    <img src="https://skillicons.dev/icons?i=sequelize" />
-    <p> Sequelize </p>
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-    <p> Tailwind </p>
-    <img src="https://skillicons.dev/icons?i=ts" />
-    <p> Typescript </p>
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <p> VSCode </p>
+<div align="center">
+  <table>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="50px" height="50px" />
+      <p> Bash </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50px" height="50px" />
+      <p> Bootstrap </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="50px" height="50px" />
+      <p> CSS </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="50px" height="50px" />
+      <p> Docker </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="50px" height="50px" />
+      <p> Express </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="50px" height="50px" />
+      <p> Github </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=heroku" width="50px" height="50px" />
+      <p> Heroku </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50px" height="50px" />
+      <p> Html </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50px" height="50px" />
+      <p> Javascript </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="50px" height="50px" />
+      <p> Jest </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="50px" height="50px" />
+      <p> Linux </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50px" height="50px" />
+      <p> MongoDB </p>
+    </td>
+  </table>
+  <table>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50px" height="50px" />
+      <p> MySQL </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50px" height="50px" />
+      <p> Node.js </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="50px" height="50px" />
+      <p> Python </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50px" height="50px" />
+      <p> React.js </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="50px" height="50px" />
+      <p> Redux </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="50px" height="50px" />
+      <p> Styled Components </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sequelize" width="50px" height="50px" />
+      <p> Sequelize </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50px" height="50px" />
+      <p> Tailwind </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="50px" height="50px" />
+      <p> Typescript </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50px" height="50px" />
+      <p> VSCode </p>
+    </td>
+  </table>
 </div>
-
-
 
 -----
 
@@ -86,11 +130,7 @@
 
 <!--
 
-<p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
-   </a>
-</p>
+
 
 -----
 
@@ -113,6 +153,13 @@
   ⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)
   
 </div>
+
+<p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
+     <p> Bash </p>
+   </a>
+</p>
 
 <div align="justify">
     <img src="https://skillicons.dev/icons?i=bash" />
