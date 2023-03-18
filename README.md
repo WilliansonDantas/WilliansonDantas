@@ -18,11 +18,56 @@
   
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Ferramentas e Tecnologias:
 
-<p align="center">
-   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
-   </a>
-</p>
+<div align="justify">
+    <img src="https://skillicons.dev/icons?i=bash" />
+    <p> Bash </p>
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <p> Bootstrap </p>
+    <img src="https://skillicons.dev/icons?i=css" />
+    <p> CSS </p>
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <p> Docker </p>
+    <img src="https://skillicons.dev/icons?i=express" />
+    <p> Express </p>
+    <img src="https://skillicons.dev/icons?i=git" />
+    <p> Git </p>
+    <img src="https://skillicons.dev/icons?i=github" />
+    <p> Github </p>
+    <img src="https://skillicons.dev/icons?i=heroku" />
+    <p> Heroku </p>
+    <img src="https://skillicons.dev/icons?i=html" />
+    <p> Html </p>
+    <img src="https://skillicons.dev/icons?i=js" />
+    <p> Javascript </p>
+    <img src="https://skillicons.dev/icons?i=jest" />
+    <p> Jest </p>
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <p> Linux </p>
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <p> MongoDB </p>
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <p> MySQL </p>
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <p> Node.js </p>
+    <img src="https://skillicons.dev/icons?i=py" />
+    <p> Python </p>
+    <img src="https://skillicons.dev/icons?i=react" />
+    <p> React.js </p>
+    <img src="https://skillicons.dev/icons?i=redux" />
+    <p> Redux </p>
+    <img src="https://skillicons.dev/icons?i=styledcomponents" />
+    <p> Styled Components </p>
+    <img src="https://skillicons.dev/icons?i=sequelize" />
+    <p> Sequelize </p>
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+    <p> Tailwind </p>
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <p> Typescript </p>
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <p> VSCode </p>
+</div>
+
+
 
 -----
 
@@ -40,6 +85,12 @@
 </div>
 
 <!--
+
+<p align="center">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,docker,express,git,github,heroku,html,js,jest,linux,mongodb,mysql,nodejs,py,react,redux,styledcomponents,sequelize,tailwind,ts,vscode," />
+   </a>
+</p>
 
 -----
 
