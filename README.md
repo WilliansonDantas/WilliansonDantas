@@ -42,6 +42,8 @@
 
 -----
 
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Estatísticas:
+
 <div align="center">
   <img alt="GitHub Stats" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliansonDantas&theme=github_dark"/>
   <img alt="GitHub Top Langs" height="250" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliansonDantas&theme=github_dark"/>
@@ -50,12 +52,7 @@
 <img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
 </div>
 
-
 -----
-<br/>
-<br/>
-<br/>
-
 
 ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
 
