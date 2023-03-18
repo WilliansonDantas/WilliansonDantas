@@ -36,6 +36,8 @@
 
 -----
 
+### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Contribuições:
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 -----
