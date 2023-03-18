@@ -40,16 +40,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
------
-
-<div align="center">
-  
-  ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
-  
-  ⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)
-  
-</div>
-
 <!--
 
 -----
@@ -62,6 +52,16 @@
 </div>
 <div align="center">
 <img align="right" alt="GitHub Details" height="250" width="1000" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliansonDantas&theme=github_dark"/>
+</div>
+
+-----
+
+<div align="center">
+  
+  ⌨️ Desenvolvido por [Willianson Dantas](https://www.linkedin.com/in/willianson-dantas/)
+  
+  ⌨️ Gráfico 3D inspirado em [Jayromberg](https://github.com/Jayromberg)
+  
 </div>
 
 <div align="justify">
