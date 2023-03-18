@@ -92,7 +92,8 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="50px" height="50px" />
-      <p> Styled Components </p>
+      <p> Styled </p>
+      <p> Components </p>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=sequelize" width="50px" height="50px" />
