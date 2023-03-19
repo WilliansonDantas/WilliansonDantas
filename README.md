@@ -60,6 +60,8 @@
       <img src="https://skillicons.dev/icons?i=jest" width="50px" height="50px" />
       <p> Jest </p>
     </td>
+  </table>
+  <table>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=linux" width="50px" height="50px" />
       <p> Linux </p>
@@ -68,8 +70,6 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="50px" height="50px" />
       <p> MongoDB </p>
     </td>
-  </table>
-  <table>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="50px" height="50px" />
       <p> MySQL </p>
@@ -91,10 +91,6 @@
       <p> Redux </p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="50px" height="50px" />
-      <p> Styled Components </p>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=sequelize" width="50px" height="50px" />
       <p> Sequelize </p>
     </td>
@@ -103,12 +99,18 @@
       <p> Tailwind </p>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="50px" height="50px" />
-      <p> Typescript </p>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="50px" height="50px" />
       <p> VSCode </p>
+    </td>
+  </table>
+  <table>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="50px" height="50px" />
+      <p> Styled Components </p>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="50px" height="50px" />
+      <p> Typescript </p>
     </td>
   </table>
 </div>
