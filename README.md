@@ -8,7 +8,7 @@
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
 
-- 🔭 Sou formado Desenvolvedor Web Full Stack pela Instituição Trybe
+- 🔭 Desenvolvedor Web Full Stack formado pela Instituição Trybe
 - 🌱 No momento estou aprendendo Java e Spring Boot, por meio do Bootcamp ofertado pelo Banco Pan através da DIO
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas
 - :man_health_worker: Experiências de mercado: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
