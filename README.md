@@ -111,6 +111,10 @@
       <img src="https://skillicons.dev/icons?i=ts" width="50px" height="50px" />
       <p> Typescript </p>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="50px" height="50px" />
+      <p> Java </p>
+    </td>
   </table>
 </div>
 
