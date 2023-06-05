@@ -116,7 +116,7 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nextjs" width="50px" height="50px" />
-      <p> Java </p>
+      <p> Next.js </p>
     </td>
   </table>
 </div>
