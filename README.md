@@ -10,7 +10,6 @@
 
 - 🔭 Desenvolvedor Web Full Stack formado pela Instituição Trybe
 - 🌱 No momento estou aprendendo linguagens e frameworks através da plataforma Alura, como Java e Next.js
-- 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas
 - :man_health_worker: Experiências de mercado: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
 
 -----
