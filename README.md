@@ -114,6 +114,10 @@
       <img src="https://skillicons.dev/icons?i=java" width="50px" height="50px" />
       <p> Java </p>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50px" height="50px" />
+      <p> Java </p>
+    </td>
   </table>
 </div>
 
