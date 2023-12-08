@@ -119,6 +119,10 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="50px" height="50px" />
       <p> Next.js </p>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="50px" height="50px" />
+      <p> Nest.js </p>
+    </td>
   </table>
 </div>
 
