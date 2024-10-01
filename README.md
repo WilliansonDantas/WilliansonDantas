@@ -8,9 +8,10 @@
 
 ### <img height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-sayaka.gif"/> Sobre mim:
 
-- 🔭 Desenvolvedor Web Full Stack formado pela Instituição Trybe
-- 🌱 No momento estou aprendendo linguagens e frameworks através da plataforma Alura, como Java e Next.js
-- :man_health_worker: Experiências de mercado: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
+- :man_student: Atualmente cursando Análise e Desenvolvimento de Sistemas na UNIFACISA
+- :brain: Desenvolvedor Web Full Stack formado na Trybe
+- :books: No momento estou aprendendo linguagens e frameworks de forma independente, como Java
+- :man_health_worker: Experiências de mercado: Atuei como Desenvolvedor Full Stack na modalidade PJ | Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
 
 -----
   
