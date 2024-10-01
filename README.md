@@ -12,8 +12,8 @@
 - :brain: Desenvolvedor Web Full Stack formado na Trybe
 - :books: No momento estou aprendendo linguagens e frameworks de forma independente, como Java
 - :man_health_worker: Experiências de mercado:
-      :arrow_right: Atuei como Desenvolvedor Full Stack na modalidade PJ e Prestei serviços autonômos como Freelancer
-      :arrow_right: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
+        :arrow_right: Atuei como Desenvolvedor Full Stack na modalidade PJ e Prestei serviços autonômos como Freelancer
+        :arrow_right: Tenho formação em Contabilidade, e trabalhei na área por cerca de 6 anos, sendo 3 anos como Auditor Externo, em Big Four
 
 -----
   
